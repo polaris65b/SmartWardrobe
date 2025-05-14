@@ -13,7 +13,7 @@ public class SignUpResponse {
 
     private String username;
     private String nickname;
-    private List<RoleDto> roles;
+    private List<String> roles;
 
     @Getter
     @AllArgsConstructor
@@ -26,7 +26,7 @@ public class SignUpResponse {
         return new SignUpResponse(
                 username,
                 nickname,
-                Collections.singletonList(new RoleDto(cleaned))
+                Collections.singletonList(cleaned)
         );
     }
 }
