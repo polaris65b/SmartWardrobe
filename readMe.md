@@ -76,7 +76,8 @@
 
 
 ## Swagger
-접속 방법 : http://localhost:8080/swagger-ui/index.html#/
+
+### 접속 방법 : http://3.34.3.189:8080/swagger-ui/index.html
 
 ![img.png](picture/img.png)
 
