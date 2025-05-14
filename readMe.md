@@ -78,17 +78,17 @@
 ## Swagger
 접속 방법 : http://localhost:8080/swagger-ui/index.html#/
 
-![img.png](img.png)
+![img.png](picture/img.png)
 
 ### Auth
 #### signup
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![img_1.png](picture/img_1.png)
+![img_2.png](picture/img_2.png)
 
 #### signin
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
+![img_3.png](picture/img_3.png)
+![img_4.png](picture/img_4.png)
 
 ### User
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
+![img_5.png](picture/img_5.png)
+![img_6.png](picture/img_6.png)
